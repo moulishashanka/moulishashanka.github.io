@@ -1,0 +1,17 @@
+        @font-face {
+      font-family: 'Inter'; font-style: normal; font-weight: 400;
+      src: local(''),
+        url('../include/roboto-mono-v21-latin-regular.woff2') format('woff2'),
+        url('../include/roboto-mono-v21-latin-regular.woff') format('woff'); }
+    body {background-color:#222; max-width:800px; color:#fff; line-height: 1.5;
+      font-family: 'Inter'; font-size: 1.0em;
+      margin:40px auto; padding: 0 10px;}
+    code {font-size: 1.6em; color:#999;}
+    h1 {font-weight:bold; font-size: 1.6em; margin-top:2em;}
+    hr {margin-top: 4em; border: none; background-color: #555; color: #555; height: 1px;}
+    a {color:#aaa;}
+    a:hover {color:#ccc;}
+    img {margin-top: 4em; margin-bottom: 2em; max-width:100%;}
+    input {font-family: inherit;}
+
+body {background-color: #222; text-align: justify;}

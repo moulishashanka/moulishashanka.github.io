@@ -20,3 +20,5 @@ h3 {font-weight: bold; font-size: 1.125em; color: rgb(190, 146, 7); line-height:
 h4 {font-weight: bold; font-size: 1em; color: rgb(118, 141, 33); line-height: 1.5em;}
 
 body {background-color: rgb(16, 15, 15); text-align: justify; max-width: 650px; color: rgb(206, 205, 195); line-height: 1.25; font-family: 'Inter'; font-size: 1.0em; margin:40px auto; padding: 0 10px;}
+
+a:link{color: rgb(206, 205, 195)}

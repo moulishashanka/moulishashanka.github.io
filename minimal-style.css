@@ -24,10 +24,4 @@ body {background-color: rgb(16, 15, 15); text-align: justify; max-width: 32em; c
 a:link{color: rgb(206, 205, 195)}
 a:visited{color: rgb(206, 205, 195)}
 
-ul{
-    list-style-type: none;
-    margin:0;
-    padding:0
-}
-li{display:inline;padding-inline:10px;}
 

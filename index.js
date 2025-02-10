@@ -1,1 +1,0 @@
-window.alert("Em chusthunnav ra rey!");
